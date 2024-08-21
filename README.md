@@ -25,7 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KunalShokhanda&show_icons=true&theme=dark&locale=en" alt="KunalShokhanda" /></p>
 <p><img align="center" src="https://streak-stats.demolab.com?user=KunalShokhanda&locale=en&mode=daily&theme=dark" height="220" alt="streak graph" /></p>
 
-<img align ="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif" alt="Snake animation" />
+<!---<img align ="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif" alt="Snake animation" />--->
 
 <!---
 KunalShokhanda/KunalShokhanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
